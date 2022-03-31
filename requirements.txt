@@ -1,0 +1,2 @@
+easygui==0.98.2
+pywhatkit==5.3
